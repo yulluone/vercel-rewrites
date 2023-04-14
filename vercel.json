@@ -8,6 +8,14 @@
       "source": "/work/supabase-authui/:match*",
       "destination": "https://supabase-authui.vercel.app/work/supabase-authui/:match*"
     },
+    {
+      "source": "/work/radial-flutter-menu",
+      "destination": "https://radial-flutter-menu.vercel.app/"
+    },
+    {
+      "source": "/work/radial-flutter-menu/:match*",
+      "destination": "https://radial-flutter-menu.vercel.app/:match*"
+    },
     { "source": "/", "destination": "https://yulluone.vercel.app" },
     {
       "source": "/:match*",
