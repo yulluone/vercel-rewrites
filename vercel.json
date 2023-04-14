@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/work/supabase-authui/",
-      "destination": "https://supabase-authui.vercel.app/"
+      "destination": "https://supabase-authui.vercel.app/work/supabase-authui"
     },
     {
       "source": "/work/supabase-authui/:match*",
-      "destination": "https://supabase-authui.vercel.app/:match*"
+      "destination": "https://supabase-authui.vercel.app/work/supabase-authui/:match*"
     },
     { "source": "/", "destination": "https://yulluone.vercel.app" },
     {
