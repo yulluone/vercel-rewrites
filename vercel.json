@@ -1,0 +1,17 @@
+{
+  "rewrites": [
+    {
+      "source": "/work/supabase-authui/",
+      "destination": "https://supabase-authui.vercel.app/"
+    },
+    {
+      "source": "/work/supabase-authui/:match*",
+      "destination": "https://supabase-authui.vercel.app/:match*"
+    },
+    { "source": "/", "destination": "https://yulluone.vercel.app" },
+    {
+      "source": "/:match*",
+      "destination": "https://yulluone.vercel.app/:match*"
+    }
+  ]
+}
