@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/work/supabase-authui/",
+      "source": "/work/supabase-authui",
       "destination": "https://supabase-authui.vercel.app/work/supabase-authui"
     },
     {
