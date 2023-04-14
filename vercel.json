@@ -10,7 +10,7 @@
     },
     {
       "source": "/work/radial-flutter-menu",
-      "destination": "https://radial-flutter-menu.vercel.app/"
+      "destination": "https://radial-flutter-menu.vercel.app"
     },
     {
       "source": "/work/radial-flutter-menu/:match*",
