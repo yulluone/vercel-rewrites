@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/work/dev-potfolio-starter",
-      "destination": "https://dev-portfolio-starter.vercel.app"
+      "destination": "https://dev-portfolio-starter.vercel.app/work/dev-potfolio-starter"
     },
     {
       "source": "/work/dev-portfolio-starter/:match*",
-      "destination": "https://dev-portfolio-starter.vercel.app/:match*"
+      "destination": "https://dev-portfolio-starter.vercel.app/work/dev-potfolio-starter/:match*"
     },
     {
       "source": "/work/airbnb-rebuild",
