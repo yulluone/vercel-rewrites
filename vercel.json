@@ -1,6 +1,30 @@
 {
   "rewrites": [
     {
+      "source": "/work/dev-potfolio-starter",
+      "destination": "https://dev-portfolio-starter.vercel.app"
+    },
+    {
+      "source": "/work/dev-portfolio-starter/:match*",
+      "destination": "https://dev-portfolio-starter.vercel.app/:match*"
+    },
+    {
+      "source": "/work/airbnb-rebuild",
+      "destination": "https://air-bnb-clone-4b0bd.web.app"
+    },
+    {
+      "source": "/work/airbnb-rebuild/:match*",
+      "destination": "https://air-bnb-clone-4b0bd.web.app/:match*"
+    },
+    {
+      "source": "/work/netflix-rebuild",
+      "destination": "https://netflix-clone-743e0.web.app"
+    },
+    {
+      "source": "/work/netflix-rebuild/:match*",
+      "destination": "https://netflix-clone-743e0.web.app/:match*"
+    },
+    {
       "source": "/work/supabase-authui",
       "destination": "https://supabase-authui.vercel.app/work/supabase-authui"
     },
