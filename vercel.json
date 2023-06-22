@@ -40,10 +40,10 @@
       "source": "/work/radial-flutter-menu/:match*",
       "destination": "https://radial-flutter-menu.vercel.app/:match*"
     },
-    { "source": "/", "destination": "https://yulluone.vercel.app" },
+    { "source": "/", "destination": "https://portfolio3-d-nine.vercel.app" },
     {
       "source": "/:match*",
-      "destination": "https://yulluone.vercel.app/:match*"
+      "destination": "https://portfolio3-d-nine.vercel.app/:match*"
     }
   ]
 }
