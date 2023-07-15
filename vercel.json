@@ -8,6 +8,13 @@
       "source": "/work/dev-portfolio-starter/:match*",
       "destination": "https://dev-portfolio-starter.vercel.app/work/dev-potfolio-starter/:match*"
     },
+    {  "source": "/work/thesafehouseblog",
+      "destination": "https://thesafehouse-c97d04.ingress-earth.ewp.live/"
+    },
+    {
+      "source": "/work/thesafehouseblog/:match*",
+      "destination": "https://thesafehouse-c97d04.ingress-earth.ewp.live/:match*"
+    },
     {
       "source": "/work/airbnb-rebuild",
       "destination": "https://air-bnb-clone-4b0bd.web.app"
