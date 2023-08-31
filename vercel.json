@@ -47,10 +47,10 @@
       "source": "/work/radial-flutter-menu/:match*",
       "destination": "https://radial-flutter-menu.vercel.app/:match*"
     },
-    { "source": "/", "destination": "https://portfolio3-d-nine.vercel.app" },
+    { "source": "/", "destination": "https://y-u-l-l-u.vercel.app" },
     {
       "source": "/:match*",
-      "destination": "https://portfolio3-d-nine.vercel.app/:match*"
+      "destination": "https://y-u-l-l-u.vercel.app/:match*"
     }
   ]
 }
